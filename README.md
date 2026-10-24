@@ -63,7 +63,3 @@ I’m open to:
 
 > Building ambitious software with a practical engineering mindset: AI systems, backend platforms, and tools that help people work faster without sacrificing trust, security, or control.
 
-If you want, I can also give you:
-- a shorter, more punchy version for GitHub
-- a more polished startup/recruiter version
-- a version tailored for software engineering roles specifically
