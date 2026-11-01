@@ -60,6 +60,7 @@ I’m open to:
 - AI product and tooling engineering roles
 - developer experience and productivity tooling
 - systems at the intersection of AI, product, and security
+- Portfolio website https://portfolio-website-virid-three-71.vercel.app/
 
 ## Contact
 
