@@ -1,6 +1,6 @@
 # Rohan Gupta
 
-Software engineer building systems software, developer tooling, and backend applications in **TypeScript, Python, C/Win32, and Node.js**.
+Building systems software, developer tooling, and backend applications in **TypeScript, Python, C/Win32, and Node.js**.
 
 ---
 
